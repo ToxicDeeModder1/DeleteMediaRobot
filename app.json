@@ -3,7 +3,7 @@
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": ["telegram", "best", "Media", "Deleting", "Robot"],
   "logo": "https://cdn3.iconfinder.com/data/icons/youtube-5/100/youtube_11-512.png",
-  "website": "https://t.me/MsgDeletBot,
+  "website": "https://telegram.me/MsgDeletBot,
   "repository": "https://github.com/ToxicDeeModder1/DeleteMediaRobot",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
