@@ -20,7 +20,7 @@ AUTH_USERS      - List of Autherized user ids separated by <space>
 
 ### Deploy Easy Way:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/DeleteMediaRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ToxicDeeModder1/DeleteMediaRobot)
 
 ### Deploy Hard Way:
 
