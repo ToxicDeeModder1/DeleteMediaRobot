@@ -1,4 +1,4 @@
-#----------------------------------- https://github.com/m4mallu/DeleteMediaRobot -------------------------------------#
+#----------------------------------- https://github.com/ToxicDeeModder1/DeleteMediaRobot -------------------------------------#
 
 from bot import Bot
 
